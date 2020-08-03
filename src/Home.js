@@ -8,7 +8,7 @@ const Home = () =>
     return (
         <>
          <section id="section-header" className="">
-            <div className="container-fluid nav_bg">
+            <div className="container-fluid nav_bg pl-0 pr-0">
                 <div className="col-12 mx-auto">
                     <Slider 
                         slideSourcefirst={slidea}
